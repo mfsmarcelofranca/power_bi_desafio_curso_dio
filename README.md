@@ -1,5 +1,5 @@
 ### Arquivos criados no curso: Formação Power BI Analyst
-### [Na Digital Innovation one](https://www.dio.me)
+### da [Digital Innovation one](https://www.dio.me)
 ### [Curso ministrado pela Tech Education Specialist DIO: Juliana Mascarenhas](https://github.com/julianazanelatto/power_bi_analyst)
 
 ## Desafio proposto
