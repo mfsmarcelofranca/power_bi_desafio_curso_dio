@@ -3,7 +3,9 @@
 ### Curso ministrado pela Tech Education Specialist DIO: Juliana Mascarenhas -> https://github.com/julianazanelatto/power_bi_analyst
 
 ## Desafio proposto
+
 Instruções para entrega
+
 Descrição do desafio: Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Gihub para ter acesso aos dados: 
 
 https://github.com/julianazanelatto/power_bi_analyst 
