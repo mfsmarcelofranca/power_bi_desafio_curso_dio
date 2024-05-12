@@ -36,4 +36,4 @@ Compartilhe como suplemento no Power Point
 
 Caso não tenha Power Point, salve o projeto de Power BI
 
-![Desafio do curso](![primeiros_passos_power_bi](https://github.com/mfsmarcelofranca/power_bi_desafio_curso_dio/assets/55967917/f6e155dd-1eb1-4575-b843-bd17fe5ad1e5.png)
+![Desafio do curso](https://github.com/mfsmarcelofranca/power_bi_desafio_curso_dio/assets/55967917/f6e155dd-1eb1-4575-b843-bd17fe5ad1e5.png)
